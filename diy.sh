@@ -92,7 +92,7 @@ CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_DNS2SOCKS=y
 CONFIG_PACKAGE_luci-app-syncdial=y
 CONFIG_PACKAGE_luci-app-transmission=y
 # CONFIG_UnblockNeteaseMusic_Go is not set
-CONFIG_UnblockNeteaseMusic_NodeJS=y
+# CONFIG_UnblockNeteaseMusic_NodeJS is not set
 CONFIG_PACKAGE_luci-app-wrtbwmon=y
 CONFIG_PACKAGE_luci-app-xlnetacc=y
 EOF
